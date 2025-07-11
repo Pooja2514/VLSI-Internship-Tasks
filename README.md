@@ -6,7 +6,6 @@ These beginner-level projects helped me get hands-on experience with Verilog cod
 
 ## 🚀 Tools & Languages Used
 - Verilog HDL
-- ModelSim 
 - Xilinx Vivado 
 
 ## ✅ Completed Tasks
