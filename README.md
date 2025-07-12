@@ -13,7 +13,7 @@ These beginner-level projects helped me get hands-on experience with Verilog cod
 - Designed a basic digital logic circuits like logic gates,universal gates, adders, and multiplexers using Verilog.
 - Verified the output using a testbench.
 - Observed waveform outputs through simulation.
-👉 [Click here to view Task 1](./Task1_DIGITAL LOGIC DESIGN WITH VERILOG/)
+👉 [./Task1_DIGITAL LOGIC DESIGN WITH VERILOG/]
 
 ### 📌 Task 2 – FINITE STATE MACHINE (FSM) DESIGN 
 - Implemented a FSM machines that is moore,and melay models in Verilog.
