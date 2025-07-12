@@ -1,0 +1,27 @@
+📌 Task 2 – FINITE STATE MACHINE (FSM) DESIGN
+📘 Introduction
+Finite State Machines (FSMs) are a fundamental concept in digital logic design, widely used to model sequential behavior in hardware. 
+An FSM is a computational model that can exist in one of a finite number of states at any given time and transitions between these states based on inputs.
+In this task, I explored two main types of FSMs:
+✅ Moore Machine – Outputs depend only on the current state.
+✅ Mealy Machine – Outputs depend on both the current state and the inputs.
+
+🧠 Objective:
+The goal was to implement both Moore and Mealy FSM models in Verilog HDL, simulate them using testbenches, and analyze their waveform behavior.
+
+⚙️ Tools Used
+Verilog HDL.
+Xilinx Vivado.
+
+🔨 What I Did:
+Defined state transition logic for Moore and Mealy FSMs.
+Created state diagrams before coding (to understand the transitions).
+Wrote synthesizable Verilog code for both FSMs.
+Developed testbenches to simulate input conditions.
+Observed and verified correct state transitions using waveform output.
+
+✅ Outcome
+This task helped me understand:
+Differences between Moore and Mealy FSMs.
+How to design real-time controllers in hardware.
+Importance of proper state encoding and transitions.
