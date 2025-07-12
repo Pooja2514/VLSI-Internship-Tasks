@@ -20,7 +20,7 @@ These beginner-level projects helped me get hands-on experience with Verilog cod
 - Implemented a FSM machines that is moore,and melay models in Verilog.
 - Verified the functionality via simulation.
 - Designed basic testbench to ensure correct logic operation.
-👉 [Click here to view Task 2](./Task2_MuxDesign)
+👉[🔗 View Task 2 Folder](./Task2_FSMs)
 
 ## 🙌 Acknowledgements
 Grateful for the opportunity to explore VLSI design as part of this internship.  
